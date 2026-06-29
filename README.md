@@ -11,6 +11,19 @@ A simple Python program that simulates rolling two six-sided dice. The program r
 - Python 3
 - `random` module
 
+## Sample Output
+
+```
+roll the dice? (yes / no): yes
+(3,6)
+
+roll the dice? (yes / no): yes
+(1,4)
+
+roll the dice? (yes / no): no
+Thanks for playing!
+```
+
 ## Screenshot
 <img width="535" height="275" alt="Screenshot 2026-06-29 164841" src="https://github.com/user-attachments/assets/b0e375f8-b6d6-4ee0-ab84-57f6021ed0ef" />
 
@@ -30,5 +43,6 @@ python dice_roll.py
 
 ## Author
 **Simrah Ahmad**
+
 GitHub: https://github.com/simrxh
 
